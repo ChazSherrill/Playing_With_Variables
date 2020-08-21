@@ -1,0 +1,12 @@
+/Users/chazsherrill/repos/Playing_With_Variables/Playing_With_Variables/bin/Debug/netcoreapp3.1/Playing_With_Variables.deps.json
+/Users/chazsherrill/repos/Playing_With_Variables/Playing_With_Variables/bin/Debug/netcoreapp3.1/Playing_With_Variables.runtimeconfig.json
+/Users/chazsherrill/repos/Playing_With_Variables/Playing_With_Variables/bin/Debug/netcoreapp3.1/Playing_With_Variables.runtimeconfig.dev.json
+/Users/chazsherrill/repos/Playing_With_Variables/Playing_With_Variables/bin/Debug/netcoreapp3.1/Playing_With_Variables.dll
+/Users/chazsherrill/repos/Playing_With_Variables/Playing_With_Variables/bin/Debug/netcoreapp3.1/Playing_With_Variables.pdb
+/Users/chazsherrill/repos/Playing_With_Variables/Playing_With_Variables/obj/Debug/netcoreapp3.1/Playing_With_Variables.csprojAssemblyReference.cache
+/Users/chazsherrill/repos/Playing_With_Variables/Playing_With_Variables/obj/Debug/netcoreapp3.1/Playing_With_Variables.AssemblyInfoInputs.cache
+/Users/chazsherrill/repos/Playing_With_Variables/Playing_With_Variables/obj/Debug/netcoreapp3.1/Playing_With_Variables.AssemblyInfo.cs
+/Users/chazsherrill/repos/Playing_With_Variables/Playing_With_Variables/obj/Debug/netcoreapp3.1/Playing_With_Variables.csproj.CoreCompileInputs.cache
+/Users/chazsherrill/repos/Playing_With_Variables/Playing_With_Variables/obj/Debug/netcoreapp3.1/Playing_With_Variables.dll
+/Users/chazsherrill/repos/Playing_With_Variables/Playing_With_Variables/obj/Debug/netcoreapp3.1/Playing_With_Variables.pdb
+/Users/chazsherrill/repos/Playing_With_Variables/Playing_With_Variables/obj/Debug/netcoreapp3.1/Playing_With_Variables.genruntimeconfig.cache
